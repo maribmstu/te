@@ -1,0 +1,71 @@
+.p1{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 48px;
+    width: 500px;
+    display: inline-block;
+    margin-right: 30px;
+    vertical-align: top;
+}
+.p2{
+    font-family: "Jacquard 24 Charted", system-ui;
+    font-weight: 400;
+     font-style: normal;
+    font-size: 48px;
+    width: 500px;
+    display: inline-block;
+    margin-right: 30px;
+    vertical-align: top;
+}
+.p3{
+    font-size: 48px;
+    width: 500px;
+    display: inline-block;
+    margin-right: 30px;
+    vertical-align: top;
+}
+.p4{
+    font-family: "ALK Life", sans-serif;
+    font-size: 48px;
+    width: 500px;
+    display: inline-block;
+    margin-right: 30px;
+    vertical-align: top;
+}
+.p5{
+    font-family: "BPG DedaEna Nonblock", sans-serif;
+    font-size: 48px;
+    line-height: 60px;
+    text-indent: 50px;
+    letter-spacing: 3px;
+    width: 500px;
+    display: inline-block;
+    margin-right: 30px;
+    vertical-align: top;
+}
+.p6{
+    font-size: 48px;
+    width: 500px;
+    display: inline-block;
+    margin-right: 30px;
+    vertical-align: top;
+}
+.container{
+     width: 1052px;
+     margin: 0 auto;
+     /* border: 2px solid red; */
+     /* height: 700px; */
+}
+.card{
+    border: 2px solid black;
+    width: 300px;
+    padding: 20px;
+    margin-right: 50px;
+    background-color: lightblue;
+    display: inline-block;
+}
+.cardimg{
+    width: 100%;
+    margin: 20px 0;
+}
